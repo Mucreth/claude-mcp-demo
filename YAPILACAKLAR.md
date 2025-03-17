@@ -4,10 +4,10 @@ Bu dosya, MCP (Minecraft Command Protocol) projesinde yapılması planlanan işl
 
 ## Öncelikli Görevler
 
-- [ ] MCP kurulum adımlarını detaylı olarak belgelemek
-- [ ] Temel komutların bir listesini oluşturmak
-- [ ] Basit bir örnek projeyi kodlamak ve eklemek
-- [ ] Hata ayıklama için ipuçları ve yöntemler eklemek
+- [x] MCP kurulum adımlarını detaylı olarak belgelemek
+- [x] Temel komutların bir listesini oluşturmak
+- [x] Basit bir örnek projeyi kodlamak ve eklemek
+- [x] Hata ayıklama için ipuçları ve yöntemler eklemek
 
 ## Orta Vadeli Görevler
 
@@ -29,4 +29,3 @@ Bu dosya, MCP (Minecraft Command Protocol) projesinde yapılması planlanan işl
 - [ ] Basit bir otomasyon projesinin baştan sona yapımı
 - [ ] İleri seviye komut blokları ve optimizasyon teknikleri
 - [ ] Minecraft dünyasında komut bloklarıyla yaratıcı projeler
-
